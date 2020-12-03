@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Oribar
+        Oribar Test
       </h1>
       <div class="links">
         <a
