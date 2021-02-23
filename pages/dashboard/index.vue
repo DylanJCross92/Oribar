@@ -13,7 +13,7 @@
                     <span class="credit-rating align-middle">Good Credit</span>
                   </b-col>
                   <b-col>
-                    <-graph>
+                    Chart
                   </b-col>
                 </b-row>
               </b-container>
@@ -168,7 +168,7 @@
                   <div class="dot personal-loan"></div>
                 </b-col>
                 <b-col>Personal Loans</b-col>
-                <b-col class="value" col="auto">$4,303</b-col>
+                <b-col class="value" cols="auto">$4,303</b-col>
               </b-row>
               <b-row align-v="center">
                 <b-col cols="1">
@@ -253,16 +253,14 @@
 </template>
 
 <script>
+
 export default {
-  mounted() {
-    console.log(this.$route)
-  }
 }
 </script>
 
 <style lang="scss" scoped>
 .dashboard-page-container {
-  background: #f8faff;
+  background: #eff3f8;
   min-height: 100vh;
 
   .dashboard-wrapper {

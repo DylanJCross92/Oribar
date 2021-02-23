@@ -14,7 +14,7 @@
                     <b-form-input size="lg" placeholder="Password"></b-form-input>
                   </b-row>
                   <b-row class="mt-3">
-                    <b-button type="submit" block size="lg" variant="primary" href="/dashboard">Sign In</b-button>
+                    <b-button type="submit" block size="lg" variant="primary" href="/dev/dashboard">Sign In</b-button>
                   </b-row>
                 </b-container>
               </b-form>

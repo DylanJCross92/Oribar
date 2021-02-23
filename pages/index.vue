@@ -9,7 +9,7 @@
             <b-button variant="success">See how we can help</b-button>
           </b-col>
           <b-col>
-            <img class="header-app-photo" src="/home/header-app-photo.png"/>
+            <img class="header-app-photo" src="home/header-app-photo.png"/>
           </b-col>
         </b-row>
       </b-container>

@@ -10,7 +10,7 @@
 export default {
   computed: {
     checkIfDashboard() {
-      return this.$route.path === "/dashboard"
+      return this.$route.path === "/dashboard" || this.$route.path === "/dashboard/credit-score" || this.$route.path === "/dashboard/savings"
     }
   }
 }

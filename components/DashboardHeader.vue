@@ -3,13 +3,13 @@
     <b-container>
       <b-row align-v="center">
         <b-col>
-          <b-link href="/"><Logo /></b-link>
+          <b-link href="/dev/"><Logo /></b-link>
         </b-col>
         <b-col>
           <b-nav>
-            <b-nav-item active>Dashboard</b-nav-item>
-            <b-nav-item href="/dashboard/credit-score">Credit Score</b-nav-item>
-            <b-nav-item>Savings</b-nav-item>
+            <b-nav-item href="/dev/dashboard"active>Dashboard</b-nav-item>
+            <b-nav-item href="/dev/dashboard/credit-score">Credit Score</b-nav-item>
+            <b-nav-item href="/dev/dashboard/savings">Savings</b-nav-item>
           </b-nav>
         </b-col>
         <b-col>

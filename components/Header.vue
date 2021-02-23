@@ -3,7 +3,7 @@
     <b-container>
       <b-row align-v="center">
         <b-col>
-          <b-link href="/"><Logo /></b-link>
+          <b-link href="/dev/"><Logo /></b-link>
         </b-col>
         <b-col>
           <b-nav>
@@ -14,7 +14,7 @@
         </b-col>
         <b-col>
           <b-nav pills align="right">
-            <b-nav-item href="/login">Login</b-nav-item>
+            <b-nav-item href="/dev/login">Login</b-nav-item>
             <b-nav-item active>Sign Up</b-nav-item>
           </b-nav>
         </b-col>
